@@ -1,0 +1,327 @@
+{
+  "isAuth": true,
+  "name": "诛天小k",
+  "fromGroup": "39335379557@chatroom",
+  "wxid": "wxid_bfeieiisfbhv12",
+  "runAwayName": "逃跑",
+  "zyt": "镇妖塔",
+  "dw": "队伍",
+  "minHp": 10000,
+  "direction": [
+    {
+      "name": "向前",
+      "showName": "向前",
+      "person": "1"
+    },
+    {
+      "name": "向后",
+      "showName": "向后",
+      "person": "2"
+    },
+    {
+      "name": "向左",
+      "showName": "左",
+      "person": "3"
+    },
+    {
+      "name": "向右",
+      "showName": "右",
+      "person": "4"
+    }
+  ],
+  "direction-fz": [
+    {
+      "name": "向前",
+      "showName": "向前",
+      "person": "1"
+    },
+    {
+      "name": "向后",
+      "showName": "向后",
+      "person": "2"
+    },
+    {
+      "name": "向左",
+      "showName": "z",
+      "person": "3"
+    },
+    {
+      "name": "向右",
+      "showName": "y",
+      "person": "4"
+    }
+  ],
+  "skillList": [
+    "A小白菜#设置技能#基础#66#77#88#99#20",
+    "诛天k少#设置技能#基础#11#22#33#44#99",
+    "磊子#设置技能#基础#1111#2222#3333#4444#99",
+    "诛天小k#设置技能#基础#111#222#333#444#99",
+    "六下#设置技能#基础#555#666#777#888#18",
+    "诛天小k#设置技能#群体治疗#奶",
+    "磊子#设置技能#群体治疗#mm",
+    "A小白菜#设置技能#群体治疗#m"
+  ],
+  "pkBossList": [
+    {
+      "name": "诛天k少",
+      "hp": 3576
+    },
+    {
+      "name": "诛天小k",
+      "hp": 4596
+    },
+    {
+      "name": "磊子",
+      "hp": 4648
+    },
+    {
+      "name": "六下",
+      "hp": 0
+    }
+  ],
+  "teamPerson": [
+    {
+      "name": "六下",
+      "hp": "58350",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "六下",
+          "cdName": "555",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 18
+        },
+        {
+          "name": "六下",
+          "cdName": "666",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 18
+        },
+        {
+          "name": "六下",
+          "cdName": "777",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 18
+        },
+        {
+          "name": "六下",
+          "cdName": "888",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 18
+        }
+      ],
+      "hxCD": {},
+      "healCD": {},
+      "wxid": ""
+    },
+    {
+      "name": "A小白菜",
+      "hp": "41966",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "A小白菜",
+          "cdName": "66",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 20
+        },
+        {
+          "name": "A小白菜",
+          "cdName": "77",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 20
+        },
+        {
+          "name": "A小白菜",
+          "cdName": "88",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 20
+        },
+        {
+          "name": "A小白菜",
+          "cdName": "99",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 20
+        }
+      ],
+      "hxCD": {},
+      "healCD": {
+        "name": "A小白菜",
+        "cdName": "m",
+        "cdDate": "",
+        "cdTime": ""
+      },
+      "wxid": ""
+    },
+    {
+      "name": "诛天小k",
+      "hp": "65385",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "诛天小k",
+          "cdName": "111",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "诛天小k",
+          "cdName": "222",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "诛天小k",
+          "cdName": "333",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "诛天小k",
+          "cdName": "444",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        }
+      ],
+      "hxCD": {},
+      "healCD": {
+        "name": "诛天小k",
+        "cdName": "奶",
+        "cdDate": "",
+        "cdTime": ""
+      },
+      "wxid": "wxid_bfeieiisfbhv12"
+    },
+    {
+      "name": "诛天k少",
+      "hp": "51655",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "诛天k少",
+          "cdName": "11",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "诛天k少",
+          "cdName": "22",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "诛天k少",
+          "cdName": "33",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "诛天k少",
+          "cdName": "44",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        }
+      ],
+      "hxCD": {},
+      "healCD": {},
+      "wxid": ""
+    },
+    {
+      "name": "磊子",
+      "hp": "64817",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "磊子",
+          "cdName": "1111",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "磊子",
+          "cdName": "2222",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "磊子",
+          "cdName": "3333",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "磊子",
+          "cdName": "4444",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        }
+      ],
+      "hxCD": {},
+      "healCD": {
+        "name": "磊子",
+        "cdName": "mm",
+        "cdDate": "",
+        "cdTime": ""
+      },
+      "wxid": ""
+    }
+  ],
+  "layer18": [
+    "六下",
+    "诛天k少"
+  ],
+  "layer19": [
+    "诛天小k",
+    "诛天k少",
+    "磊子"
+  ],
+  "layer20": [
+    "诛天k少",
+    "诛天小k",
+    "磊子"
+  ],
+  "moreLayer": {
+    "layer": 26,
+    "pkBossList": [
+      {
+        "name": "诛天k少",
+        "hp": 25884
+      },
+      {
+        "name": "诛天小k",
+        "hp": 30983
+      }
+    ]
+  },
+  "smrList": [
+    "诛天k少",
+    "诛天小k",
+    "磊子",
+    "六下"
+  ]
+}

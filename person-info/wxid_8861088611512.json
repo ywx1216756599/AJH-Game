@@ -1,0 +1,232 @@
+{
+  "isAuth": true,
+  "name": "L、",
+  "fromGroup": "20988368074@chatroom",
+  "wxid": "wxid_8861088611512",
+  "runAwayName": "逃",
+  "zyt": "镇",
+  "dw": "队",
+  "minHp": 8000,
+  "direction": [
+    {
+      "name": "向前",
+      "showName": "前",
+      "person": "1"
+    },
+    {
+      "name": "向后",
+      "showName": "后",
+      "person": "2"
+    },
+    {
+      "name": "向左",
+      "showName": "左",
+      "person": "1"
+    },
+    {
+      "name": "向右",
+      "showName": "右",
+      "person": "2"
+    }
+  ],
+  "direction-fz": [],
+  "skillList": [
+    "碳酸钾#设置技能#基础#10#11#12#13",
+    "L、#设置技能#基础#111#222#333#444",
+    "L#设置技能#基础#911#912#913#914",
+    "碳酸钾#设置技能#群体治疗#1妙",
+    "L#设置技能#群体治疗#890"
+  ],
+  "pkBossList": [
+    {
+      "name": "大哥",
+      "hp": 21878
+    }
+  ],
+  "teamPerson": [
+    {
+      "name": "L、",
+      "hp": "24592",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "L、",
+          "cdName": "111",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "L、",
+          "cdName": "222",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "L、",
+          "cdName": "333",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "L、",
+          "cdName": "444",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        }
+      ],
+      "hxCD": {},
+      "healCD": {},
+      "wxid": "wxid_8861088611512"
+    },
+    {
+      "name": "大哥",
+      "hp": "41361",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "大哥",
+          "cdName": "22",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "大哥",
+          "cdName": "33",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "大哥",
+          "cdName": "44",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "大哥",
+          "cdName": "55",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        }
+      ],
+      "hxCD": {},
+      "healCD": {},
+      "wxid": ""
+    },
+    {
+      "name": "碳酸钾",
+      "hp": "40165",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "碳酸钾",
+          "cdName": "10",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "碳酸钾",
+          "cdName": "11",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "碳酸钾",
+          "cdName": "12",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "碳酸钾",
+          "cdName": "13",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        }
+      ],
+      "hxCD": {},
+      "healCD": {
+        "name": "碳酸钾",
+        "cdName": "1妙",
+        "cdDate": "",
+        "cdTime": ""
+      },
+      "wxid": ""
+    },
+    {
+      "name": "A.闪电潮牌",
+      "hp": "13360",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [],
+      "hxCD": {},
+      "healCD": {},
+      "wxid": ""
+    },
+    {
+      "name": "L",
+      "hp": "12680",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "L",
+          "cdName": "911",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "L",
+          "cdName": "912",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "L",
+          "cdName": "913",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "L",
+          "cdName": "914",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        }
+      ],
+      "hxCD": {},
+      "healCD": {
+        "name": "L",
+        "cdName": "890",
+        "cdDate": "",
+        "cdTime": ""
+      },
+      "wxid": ""
+    }
+  ],
+  "layer18": [],
+  "layer19": [],
+  "layer20": [],
+  "moreLayer": {
+    "layer": 25,
+    "pkBossList": []
+  },
+  "smrList": []
+}

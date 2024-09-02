@@ -1,0 +1,204 @@
+{
+  "isAuth": true,
+  "name": "君临小k",
+  "fromGroup": "20248663472@chatroom",
+  "wxid": "wxid_ptgzt2lmz41c22",
+  "runAwayName": "逃",
+  "zyt": "镇",
+  "dw": "队",
+  "minHp": 15000,
+  "direction": [
+    {
+      "name": "向前",
+      "showName": "前",
+      "person": "1"
+    },
+    {
+      "name": "向后",
+      "showName": "后",
+      "person": "1"
+    },
+    {
+      "name": "向左",
+      "showName": "左",
+      "person": "2"
+    },
+    {
+      "name": "向右",
+      "showName": "右",
+      "person": "2"
+    }
+  ],
+  "direction-fz": [],
+  "skillList": [
+    "飞羽#设置技能#基础#5#6#7#8#99",
+    "无敌#设置技能#基础#10#11#12#13#18",
+    "飞羽#设置技能#群体治疗#m",
+    "无敌#设置技能#群体治疗#1妙"
+  ],
+  "pkBossList": [
+    {
+      "name": "Kyle",
+      "hp": 0
+    },
+    {
+      "name": "无敌",
+      "hp": 0
+    },
+    {
+      "name": "飞羽",
+      "hp": 0
+    }
+  ],
+  "teamPerson": [
+    {
+      "name": "无敌",
+      "hp": "34449",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "无敌",
+          "cdName": "10",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 18
+        },
+        {
+          "name": "无敌",
+          "cdName": "11",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 18
+        },
+        {
+          "name": "无敌",
+          "cdName": "12",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 18
+        },
+        {
+          "name": "无敌",
+          "cdName": "13",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 18
+        }
+      ],
+      "hxCD": {},
+      "healCD": {
+        "name": "无敌",
+        "cdName": "1妙",
+        "cdDate": "",
+        "cdTime": ""
+      },
+      "wxid": ""
+    },
+    {
+      "name": "细弟",
+      "hp": "34028",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [],
+      "hxCD": {},
+      "healCD": {},
+      "wxid": ""
+    },
+    {
+      "name": "飞羽",
+      "hp": "37679",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "飞羽",
+          "cdName": "5",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "飞羽",
+          "cdName": "6",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "飞羽",
+          "cdName": "7",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "飞羽",
+          "cdName": "8",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        }
+      ],
+      "hxCD": {},
+      "healCD": {
+        "name": "飞羽",
+        "cdName": "m",
+        "cdDate": "",
+        "cdTime": ""
+      },
+      "wxid": ""
+    },
+    {
+      "name": "君临小k",
+      "hp": "30030",
+      "fy": "3000",
+      "gj": "",
+      "jnCD": [
+        {
+          "name": "君临小k",
+          "cdName": "1",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "君临小k",
+          "cdName": "2",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "君临小k",
+          "cdName": "3",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        },
+        {
+          "name": "君临小k",
+          "cdName": "4",
+          "cdDate": "",
+          "cdTime": "",
+          "layer": 99
+        }
+      ],
+      "hxCD": {},
+      "healCD": {},
+      "wxid": "wxid_ptgzt2lmz41c22"
+    }
+  ],
+  "layer18": [
+    "君临小k",
+    "飞羽",
+    "姐姐我有六颗腰子"
+  ],
+  "layer19": [],
+  "layer20": [],
+  "moreLayer": {
+    "layer": 25,
+    "pkBossList": []
+  },
+  "smrList": []
+}

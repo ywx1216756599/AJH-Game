@@ -1,0 +1,16 @@
+{
+  "wxid": "wxid_bfeieiisfbhv12",
+  "points": 9,
+  "logs": [
+    {
+      "message": "增加积分+10",
+      "time": "2024-06-03 21:39:08",
+      "status": "1"
+    },
+    {
+      "message": "收商品+宠物强化石+1",
+      "time": "2024-06-13 23:12:39",
+      "status": "2"
+    }
+  ]
+}
